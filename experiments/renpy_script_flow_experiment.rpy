@@ -130,11 +130,3 @@ label end_experiment:
 - GitHub: [@LegendarySumit](https://github.com/LegendarySumit)
 
 ---
-
-<div align="center">
-
-**🧪 Understanding through experimentation**
-
-*Script flow mechanics in action*
-
-</div>
